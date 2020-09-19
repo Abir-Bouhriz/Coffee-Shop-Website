@@ -7,6 +7,7 @@ Coffee Shop is a daily necessity for local coffee addicts, a place to dream of, 
 * CSS
 * JavaScript
 * Visual Studio Code ( Text editor )
+* paint.net
 ## ScreenShots:
 <img src="screenshots/1.png" />
 <img src="screenshots/2.png" />
